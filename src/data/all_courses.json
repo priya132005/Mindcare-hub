@@ -1,0 +1,104 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "title": "Understanding Anxiety",
+      "slug": "understanding-anxiety",
+      "description": "Learn about the symptoms of anxiety and strategies for managing it effectively.",
+      "price": 0.00,
+      "instructor": "Dr. Sarah Smith",
+      "isFeatured": true,
+      "image": "/mental-health/anxiety.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Coping with Depression",
+      "slug": "coping-with-depression",
+      "description": "Discover ways to cope with depression through various therapeutic approaches and self-help tools.",
+      "price": 0.00,
+      "instructor": "Dr. John Doe",
+      "isFeatured": false,
+      "image": "/mental-health/depression.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mindfulness Meditation",
+      "slug": "mindfulness-meditation",
+      "description": "Explore mindfulness meditation techniques to help reduce stress and improve mental well-being.",
+      "price": 0.00,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/mental-health/mindfulness.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Overcoming Social Anxiety",
+      "slug": "overcoming-social-anxiety",
+      "description": "Find practical tips and cognitive strategies to deal with social anxiety.",
+      "price": 0.00,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/mental-health/social-anxiety.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Managing Stress",
+      "slug": "managing-stress",
+      "description": "Learn how to manage stress through relaxation techniques, lifestyle changes, and more.",
+      "price": 0.00,
+      "instructor": "Dr. Chris Davis",
+      "isFeatured": false,
+      "image": "/mental-health/stress-management.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Sleep and Mental Health",
+      "slug": "sleep-and-mental-health",
+      "description": "Understand the relationship between sleep and mental health, and learn how to improve sleep quality.",
+      "price": 0.00,
+      "instructor": "Dr. Alex Wilson",
+      "isFeatured": true,
+      "image": "/mental-health/sleep.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Building Emotional Resilience",
+      "slug": "building-emotional-resilience",
+      "description": "Learn how to build emotional resilience to navigate through tough times.",
+      "price": 0.00,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/mental-health/emotional-resilience.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Self-care and Mental Health",
+      "slug": "self-care-and-mental-health",
+      "description": "Explore the importance of self-care routines to maintain good mental health.",
+      "price": 0.00,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/mental-health/self-care.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Understanding Mental Health Disorders",
+      "slug": "understanding-mental-health-disorders",
+      "description": "Gain insights into different mental health disorders such as PTSD, OCD, and Bipolar Disorder.",
+      "price": 0.00,
+      "instructor": "Dr. Grace Lee",
+      "isFeatured": false,
+      "image": "/mental-health/disorders.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Seeking Professional Help",
+      "slug": "seeking-professional-help",
+      "description": "Know when and how to seek professional help for mental health issues.",
+      "price": 0.00,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/mental-health/professional-help.jpg"
+    }
+  ]
+}
